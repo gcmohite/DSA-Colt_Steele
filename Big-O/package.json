@@ -1,0 +1,14 @@
+{
+  "name": "blank",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "watch:sass": "node-sass main.scss css/style.css -w"
+  },
+  "author": "Gautam",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
